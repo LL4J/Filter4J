@@ -58,5 +58,5 @@ System.out.println(TextFilter.isIllegal(str) ?"异常":"正常");
 若您有其他问题，欢迎在本仓库issue中提出。  
 
 ### 特别鸣谢
-北京信息科学与技术国家研究中心 Jiawen Deng et,al. 提供的COLDataset。  
+北京信息科学与技术国家研究中心 Jiawen Deng(清华大学) et,al. 提供的COLDataset。  
 此数据集为我们提供了无与伦比的帮助。
