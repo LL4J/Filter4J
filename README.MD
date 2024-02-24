@@ -56,3 +56,7 @@ System.out.println(TextFilter.isIllegal(str) ?"异常":"正常");
 您可以在训练仓库中找到关于本模型的工作原理、训练数据、训练方法等细节。  
 
 若您有其他问题，欢迎在本仓库issue中提出。  
+
+### 特别鸣谢
+北京信息科学与技术国家研究中心 Jiawen Deng et,al. 提供的COLDataset。  
+此数据集为我们提供了无与伦比的帮助。
